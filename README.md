@@ -16,7 +16,7 @@ Building scalable backend systems with <strong>C#</strong> and <strong>.NET</str
 
 <h3 align="center">Languages & Tools</h3>
 
-<p align="center">
+<div align="center">
 
 <!-- Backend -->
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
@@ -46,4 +46,4 @@ Building scalable backend systems with <strong>C#</strong> and <strong>.NET</str
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/windows-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows Server" width="40" height="40"/></a>
-</p>
+</div>
